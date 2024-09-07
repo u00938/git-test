@@ -1,5 +1,5 @@
 # git-test
 ```
 let's test
-version-1-rc.0
+version-1
 ```
