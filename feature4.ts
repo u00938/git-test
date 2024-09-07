@@ -1,1 +1,1 @@
-const d = 'd';
+const d = 'd'; // d is d
